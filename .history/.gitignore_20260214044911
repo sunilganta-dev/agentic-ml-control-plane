@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Go
+control-plane-go/control-plane
+
+# Python
+venv/
+__pycache__/
+
+# Docker
+postgres_data/
